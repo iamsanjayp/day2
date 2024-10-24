@@ -1,0 +1,38 @@
+#container{
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightsalmon;
+}
+#title{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+#city{
+    margin-left: 60px;
+    border: 2px black solid;
+    border-radius: 7px;
+    width: 160px;
+    height: 26px;
+    background-color: beige;
+}
+#fetchweather{
+    margin-left: 5px;
+    border: 1px black solid;
+    background-color: lightskyblue;
+    font-size: 15px;
+    font-weight: bold;
+}
+#result{
+    text-align: center;
+    font-size: large;
+}
